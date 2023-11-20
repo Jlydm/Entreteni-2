@@ -1,3 +1,7 @@
+.padd{
+ background-color: lightgreen;
+ padding-bottom: 20px;
+
 .clip{
  clip-path: inset(0px 0px 20px 0px);
 }
