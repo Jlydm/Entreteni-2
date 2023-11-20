@@ -2,7 +2,7 @@
 
 ## Proyecto Integrador de Aula
 ---
-<p align="center"><img src=""/></p>
+<p align="center"><img src="https://github.com/Jlydm/Entreteni-2/blob/main/public/logo.png"/></p>
 <p align="center"><em>https://entreteni-2-three.vercel.app/</em> </p>
 
 
