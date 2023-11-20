@@ -13,9 +13,7 @@ const triki = () => {
             className='rounded-3'
             />
             <div className="guide">
-                <img src='arrow-keys.png' />
-                <img src='space-key.png' />
-                <img src='arrows.png' />
+                <img src='mouse.png' />
             </div>
             <div className="description">
                 <p>
