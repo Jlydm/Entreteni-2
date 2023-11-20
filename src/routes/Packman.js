@@ -15,8 +15,6 @@ const PackmanPag = () => {
             />
             <div className="guide">
                 <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
             </div>
             <div className="description">
                 <p>
