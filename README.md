@@ -19,6 +19,5 @@ Nuestro compromiso es brindarte una plataforma amigable y sencilla de usar, dond
 ---
 <p>Integrantes:</p>
 <ul>
-  <li><a href="https://github.com/Jlydm">Julian Yesid Marin Oyuela</a><li>
-  <li><a href="https://github.com/ElJuanxi">Juan David Bobadilla Morales</a></li>
+  <li><a href="https://github.com/Jlydm">Julian Yesid Marin Oyuela</a><li><li><a href="https://github.com/ElJuanxi">Juan David Bobadilla Morales</a></li>
 </ul>
