@@ -14,9 +14,7 @@ const Helifight = () => {
             className='rounded-3'
             />
             <div className="guide">
-                <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
+                <img src='arrow-keys.png' />
             </div>
             <div className="description">
                 <p>
