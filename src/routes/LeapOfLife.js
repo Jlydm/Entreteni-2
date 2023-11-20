@@ -15,8 +15,7 @@ const LoL = () => {
             />
             <div className="guide">
                 <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
+                <img src='space-key.png' />
             </div>
             <div className="description">
                 <p>
