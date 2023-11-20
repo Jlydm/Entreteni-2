@@ -1,0 +1,27 @@
+.jueguitos{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100%;
+    background-color: #CDD7E1;
+    /* border-radius: 20px; */
+}
+
+.titleGame{
+    font-size: 50px;
+    margin: 25px 0;
+}
+
+.guide{
+    margin: 10px;
+}
+
+.description{
+    margin: 20px 150px;
+    font-size: 25px;
+}
+
+.ancho{
+    width: 100%;
+}

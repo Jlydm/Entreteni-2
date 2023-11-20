@@ -1,0 +1,7 @@
+.crecer{
+    transition: transform 0.3s;
+}
+
+.crecer:hover{
+    transform: scale(1.1) 0.3s;
+}
