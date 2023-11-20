@@ -14,16 +14,14 @@ const Tanquesitos = () => {
             />
             <div className="guide">
                 <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
             </div>
             <div className="description">
                 <p>
-                    <em>¡Bienvenido al mundo de Pac-Man!</em>
+                    <em>¡Bienvenido al mundo de Tanks!</em>
                     <br /><br />
                     <strong>Objetivo del Juego:</strong>
                     <br />
-                    Controla a Pac-Man a través del laberinto para comer todos los puntos mientras evitas a los fantasmas. Gana puntos y avanza de nivel para enfrentar nuevos desafíos.
+                    Juega contra un amigo por la permanencia en el mapa. Elimina a tu oponente para aumentar tu puntaje.
                     <br /><br />
                     <strong>Cómo Jugar:</strong>
                     <br />
@@ -31,15 +29,14 @@ const Tanquesitos = () => {
                         <li>
                         <strong>Controles:</strong>
                         <ul>
-                            <li><strong>Movimiento:</strong> Usa las teclas de dirección (↑, ↓, ←, →) para mover a Pac-Man por el laberinto.</li>
-                            <li><strong>Comer puntos:</strong> Haz que Pac-Man coma los puntos dispersos por el laberinto.</li>
-                            <li><strong>Evitar fantasmas:</strong> Evita a los fantasmas (Blinky, Pinky, Inky y Clyde) para no perder vidas.</li>
-                            <li><strong>Comer frutas:</strong> Come frutas para ganar puntos extras.</li>
+                            <li><strong>Movimiento:</strong> Usa las teclas de dirección (↑, ↓, ←, →) o W,A,S,D para mover tu tanque por el laberinto.</li>
+                            <li><strong>Aumentar puntos:</strong> Haz que tu tanque elimine al contrario para ganar.</li>
+                            <li><strong>Poderes:</strong> En el mapa estarán saliendo poderes que mejoran tus armas.</li>
                         </ul>
                         </li>
                     </ol>
                     <br />
-                    <strong>¡Disfruta de Pac-Man mientras recorres laberintos, comes puntos y evitas a los fantasmas! Supera los desafíos y alcanza la máxima puntuación.</strong>
+                    <strong>¡Disfruta de Tanks mientras recorres laberintos, vences a tus amigos y evitas ser eliminado!</strong>
                 </p>
             </div>
             <Outlet />
