@@ -14,9 +14,7 @@ const Arkanoid = () => {
             className='rounded-3'
             />
             <div className="guide">
-                <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
+                <img src='mouse.png' />
             </div>
             <div className="description">
                 <p>
