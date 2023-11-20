@@ -14,12 +14,11 @@ const Sudoku = () => {
             />
             <div className="guide">
                 <img src='arrows.png' />
-                <img src='arrows.png' />
-                <img src='arrows.png' />
+                <img src='mouse.png' />
             </div>
             <div className="description">
                 <p>
-                    <em>¡Bienvenido al mundo del Cubo de Rubik!</em>
+                    <em>¡Bienvenido al mundo del Sudoku!</em>
                     <br /><br />
                     <strong>Objetivo del Juego:</strong>
                     <br />
