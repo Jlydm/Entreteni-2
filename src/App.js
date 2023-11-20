@@ -19,7 +19,7 @@ import Categorias from "./routes/Categorias.js";
 import Profile from "./routes/Profile.js";
 import Footer from './Footer/index.js'
 import ErrorPage from "./routes/error-page.jsx";
-import "./routes/recorte.css";
+import "./recorte.css";
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.min.js"
 import "./Header/header.css";
