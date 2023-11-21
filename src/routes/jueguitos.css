@@ -13,6 +13,10 @@
     margin: 25px 0;
 }
 
+.clip{
+ clip-path: inset(0px 0px 55px 0px);
+}
+
 .guide{
     margin: 10px;
 }
