@@ -11,7 +11,7 @@ const Rubik = () => {
             width="1200px"
             height="800px"
             allowFullScreen
-            className='rounded-3 clip'
+            className='rounded-3 clips'
             />
             <div className="guide">
                 <img src='mouse.png' />
